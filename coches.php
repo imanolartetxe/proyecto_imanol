@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="cocheApp">
     <head>
-        <base href="/concesionario/">
+        <base href="/proyecto_imanol/">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Concesionario</title>
